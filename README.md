@@ -1,1 +1,1 @@
-# homework1
+# KPFU python course, 2025
